@@ -1,13 +1,13 @@
 
 # RESTAURANTS-PROJECT
 
-#**This file provides an overview of the SGS Food Restaurant website built with HTML, CSS, and Javascript.**
+**This file provides an overview of the SGS Food Restaurant website built with HTML, CSS, and Javascript.**
 
-#**Website Structure:**
+**Website Structure:**
 
 ![image](https://github.com/MadhavMadan336/SEM_3/assets/122387627/1ec0793b-99b5-4f3c-ac50-8e03c6be7b15)
 
-The website uses separate HTML files for each main section:
+**The website uses separate HTML files for each main section:**
 
 •	index.html: Homepage
 
@@ -25,7 +25,7 @@ The website uses separate HTML files for each main section:
 
 ![image](https://github.com/MadhavMadan336/SEM_3/assets/122387627/16f71976-6b46-4b78-b8c7-74b1e6223aab)
 
-Features:
+**Features:**
 
 •	Homepage: Displays a hero image or banner, navigation menu, and links to other sections.
 
@@ -37,7 +37,7 @@ Features:
 
 ![image](https://github.com/MadhavMadan336/SEM_3/assets/122387627/621be29f-ac67-47b4-b096-cdd1452ee44c)
 
-Getting Started:
+**Getting Started:**
 
 1.	Clone the Repository (Optional): If you're using version control, clone this repository to your local machine.
    
@@ -53,7 +53,7 @@ Getting Started:
 ![image](https://github.com/MadhavMadan336/SEM_3/assets/122387627/1349f263-0ef6-475d-bdc9-12ba168dcfbc)
    
 
-Future Enhancements:
+**Future Enhancements:**
 
 •	Database Integration: Connect the website to a database to manage menu items, reservations, and other dynamic content.
 
@@ -65,9 +65,9 @@ Future Enhancements:
 
 •	Content Management System (CMS): Consider using a CMS for easier content updates in the future.
 
-Deployment:
+**Deployment:**
 
 •	Once you're satisfied with the website, you can deploy it to a web hosting service to make it accessible online. This will involve uploading the website 
         files and configuring your domain name.
 
-Note: This is a basic website built with HTML, CSS, and Javascript. There are many online resources and tutorials available to learn more about these languages and web development concepts.
+**Note:** This is a basic website built with HTML, CSS, and Javascript. There are many online resources and tutorials available to learn more about these languages and web development concepts.
