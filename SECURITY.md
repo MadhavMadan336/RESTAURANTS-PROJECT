@@ -1,9 +1,8 @@
+
 # Security Policy
 
 ## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We want to ensure that our restaurant's online presence remains secure and up-to-date. Here are the versions of our platform that we currently support with security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,9 +12,9 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
+**Your security is important to us. If you discover any vulnerabilities within our online platform, please report them to us promptly. Here's how you can do that:**
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+**Reporting:** *Contact us through our designated channels for reporting vulnerabilities.*
+**Frequency of Updates:** *We strive to provide timely updates and responses to reported vulnerabilities.*
+**Vulnerability Acceptance:** *Once a vulnerability is reported, we will thoroughly assess it. If accepted, we will take necessary actions to address it promptly.*
+**Declined Vulnerabilities:** *If a reported vulnerability does not meet our criteria or is deemed invalid, we will provide feedback and reasoning for our decision.*
